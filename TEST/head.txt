@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3 (Ubuntu)
+Date: Fri, 25 Oct 2019 16:00:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: pll_language=ru; expires=Sat, 24-Oct-2020 16:00:48 GMT; Max-Age=31536000; path=/
+Location: http://kselax.ru/
+
