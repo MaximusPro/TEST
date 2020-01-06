@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru">
+<head>
+<base href="http://www.cyberforum.ru/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="keywords" content="форум программистов, компьютерный форум, киберфорум, сайберфорум, компьютеры, программирование, софт, электроника" />
+<meta name="description" content="КиберФорум - форум программистов, системных администраторов, администраторов баз данных, компьютерный форум, форум по электронике и бытовой технике, обсуждение софта. Бесплатная помощь в решении задач по программированию и наукам, решение проблем с компьютером, операционными системам" />
+
+<meta name="viewport" content="width=device-width" />
+<meta name="robots" content="noyaca" />
+<meta name="robots" content="noodp" />
+
+<link rel="stylesheet" type="text/css" href="//cyberstatic.net/clientscript/vbulletin_css/cyberforum.css" />
+<link rel="stylesheet" type="text/css" href="//cyberstatic.net/clientscript/vbulletin_important.css?v=389" />
+
+
+
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=7c6f88686113c161d5896278a88d244d&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "//cyberstatic.net/images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js?v=389"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=389"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="//cyberstatic.net/clientscript/custom/jquery.browser.min.js"></script>
+<script type="text/javascript" src="//cyberstatic.net/clientscript/vbulletin_global.js?v=389"></script>
+
+<script type="text/javascript" src="//cyberstatic.net/clientscript/vbulletin_vbpost.js"></script>
+
+
+<script type="text/javascript" src="//cyberstatic.net/clientscript/vbulletin_md5.js?v=389"></script>
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="Форум программистов и сисадминов Киберфорум RSS Feed" href="external.php?type=RSS2" />
+	
+
+<link type="application/opensearchdescription+xml" rel="search" href="http://www.cyberforum.ru/opensearch.xml" title="CyberForum.ru" />
+<link rel="stylesheet" href="//cyberstatic.net/clientscript/vbulletin_css/geshi.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//cyberstatic.net/clientscript/vbulletin_css/spoiler.css" />
+<style type="text/css">
+	span.sortarrow {position:absolute;}
+	span.sortarrow img {border:0;}
+	a.sortheader {text-decoration:none; display:block; width:100%;}
+</style>
+<script type="text/javascript">
+	var IMGDIR_BUTTON = "//cyberstatic.net/images/buttons";
+</script>
+<script type="text/javascript" src="//cyberstatic.net/clientscript/sorttable.js"></script>
+
+
+<title>Форум программистов и сисадминов Киберфорум</title>
+</head>
+<body>
+
+
+<div style="min-width: 1000px;  margin: 7px 20px 7px 20px;">
+
+
+<div>
+	<div class="page" style="text-align: left;">
+		<div style="margin: 0px 3px 0px 3px" align="left">
+
+<div class="vbmenu_popup" id="vbbloglinks_menu" style="display:none;margin-top:3px" align="left">
+	<table cellpadding="4" cellspacing="1" border="0">
+
+	<tr>
+		<td class="vbmenu_option"><a href="http://www.cyberforum.ru/blogs/recent-entries/">Блоги программистов и сисадминов</a></td>
+	</tr>
+
+	</table>
+</div>
+
+
+<form action="http://www.cyberforum.ru/index.php" method="post" name="postvarform">
+<table class="tborder" cellpadding="5" cellspacing="1" border="0" width="70%" align="center">
+<tr>
+	<td class="tcat">Переадресация...</td>
+</tr>
+<tr>
+	<td class="panelsurround" align="center">
+	<div class="panel">
+
+		<blockquote>
+			<p>&nbsp;</p>
+			<p><strong>Спасибо, что зашли, Max_Advanced.</strong></p>
+			
+				<p class="smallfont"><a href="http://www.cyberforum.ru/index.php">Нажмите здесь, если ваш браузер не поддерживает автоматической переадресации.</a></p>
+				<div>&nbsp;</div>
+			
+		</blockquote>
+
+	</div>
+	</td>
+</tr>
+</table>
+</form>
+
+
+
+<noscript>
+<meta http-equiv="Refresh" content="2; URL=http://www.cyberforum.ru/index.php?s=7c6f88686113c161d5896278a88d244d" />
+</noscript>
+
+<script type="text/javascript">
+<!--
+function exec_refresh()
+{
+	window.status = "Переадресация..." + myvar;
+	myvar = myvar + " .";
+	var timerID = setTimeout("exec_refresh();", 100);
+	if (timeout > 0)
+	{
+		timeout -= 1;
+	}
+	else
+	{
+		clearTimeout(timerID);
+		window.status = "";
+		window.location = "http://www.cyberforum.ru/index.php?s=7c6f88686113c161d5896278a88d244d";
+	}
+}
+
+var myvar = "";
+var timeout = 20;
+exec_refresh();
+//-->
+</script>
+
+
+
+</body>
+</html>

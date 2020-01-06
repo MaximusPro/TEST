@@ -68,7 +68,7 @@ int main()
 
 		curl_easy_setopt(curl_handle, CURLOPT_URL, url_dologin.c_str());
 
-		//  сохраняем html код cтраницы в строку content
+		///  сохраняем html код cтраницы в строку content
 		std::string content;
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, &content);
@@ -129,7 +129,7 @@ int main()
 		curl_easy_cleanup(curl_handle);
 		File.close();
 	}
-
+	system("pause");
 	getchar();
 	return 0;
 }
